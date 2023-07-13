@@ -1,0 +1,7 @@
+{
+  "name": "aplic.vivencias",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
